@@ -1,3 +1,5 @@
-altair
 pandas
 streamlit
+streamlit_l7
+matplotlib
+osmnx
